@@ -1,0 +1,18 @@
+{
+  "darksky": {
+    "key": ""
+  },
+
+  "latitude": 0,
+  "longitude": 0,
+
+  "phone": "",
+
+  "port": 0,
+
+  "twilio": {
+    "phone": "",
+    "sid": "",
+    "token": ""
+  }
+}
